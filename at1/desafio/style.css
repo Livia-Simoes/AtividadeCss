@@ -1,0 +1,28 @@
+body {
+    background-color: pink;
+    color: snow;
+}
+
+header {
+    background-color: lightcoral;
+}
+
+main {
+    background-color: rgb(255, 220, 220);
+}
+
+.doces {
+    background-color: deeppink;
+    color: aliceblue;
+}
+
+.encomendas {
+    background-color: crimson;
+    color: aliceblue;
+}
+
+.contato {
+    background-color: rgb(179, 0, 90);
+    color: aliceblue;
+}
+

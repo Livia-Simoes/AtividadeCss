@@ -1,0 +1,46 @@
+body {
+    background-color: #fff0f5;
+    font-family: Arial;
+    color: black;
+    margin: 0;
+}
+
+#cabecalho {
+    background-color: #e88aaa;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.banner {
+    background-color: #f7c6d9;
+    text-align: center;
+    padding: 30px;
+}
+
+.cursos {
+    background-color: white;
+    padding: 20px;
+    margin: 15px;
+}
+
+.contato {
+    background-color: #f7c6d9;
+    padding: 20px;
+    margin: 15px;
+}
+
+.rodape {
+    background-color: #e88aaa;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.titulo {
+    color: #c74370;
+}
+
+.texto {
+    font-size: 16px;
+}
